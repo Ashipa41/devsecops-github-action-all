@@ -34,3 +34,4 @@ and the function call path to the vulnerability
 *Note: Once the java application is run, `malicious_file.zip` will be deleted by it. To run it again, run `git checkout .` prior
 to next java run.*
 # devsecops-github-action-all
+# devsecops-github-action-all
